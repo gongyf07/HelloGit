@@ -7,6 +7,7 @@ public class HelloGitActivity extends Activity {
     
 	int test;
 	int hahaha;
+	int hha2;
 	
 	/** Called when the activity is first created. */
     @Override
