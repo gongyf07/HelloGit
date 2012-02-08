@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class HelloGitActivity extends Activity {
     
 	int test;
+	int hahaha;
 	
 	/** Called when the activity is first created. */
     @Override
