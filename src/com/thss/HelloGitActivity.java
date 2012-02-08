@@ -2,7 +2,11 @@ package com.thss;
 
 import android.app.Activity;
 import android.os.Bundle;
-
+/**
+ * 
+ * @author sjf
+ *
+ */
 public class HelloGitActivity extends Activity {
     
 	int test;
