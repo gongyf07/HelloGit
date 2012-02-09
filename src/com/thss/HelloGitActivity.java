@@ -10,7 +10,7 @@ import android.os.Bundle;
 public class HelloGitActivity extends Activity {
     
 	int test;
-	//int hahaha should be conflict
+	int newww;//int hahaha should be conflict
 	int hha2;
 	
 	String a = "this line should be merged";
