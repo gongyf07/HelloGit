@@ -11,6 +11,7 @@ public class HelloGitActivity extends Activity {
     
 	int test;
 	//
+	int newww;//int hahaha should be conflict
 	int hha2;
 	
 	String a = "this line should be merged";
