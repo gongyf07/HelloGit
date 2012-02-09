@@ -10,8 +10,10 @@ import android.os.Bundle;
 public class HelloGitActivity extends Activity {
     
 	int test;
-	int hahaha;
+	//int hahaha should be conflict
 	int hha2;
+	
+	String a = "this line should be merged";
 	
 	/** Called when the activity is first created. */
     @Override
